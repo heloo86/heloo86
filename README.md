@@ -1,4 +1,4 @@
-# Olá, me chamo (seu nome)! 👋
+
 
 ## Sobre mim
 Sou uma estudante de desenvolvimento de sistemas apaixonada por tecnologia e programação. Atualmente, estou focando meus estudos em desenvolvimento com Java e JavaScript.

@@ -12,8 +12,7 @@ Sou uma estudante de desenvolvimento de sistemas apaixonada por tecnologia e pro
 
 ## 📫 Contato
 
-- **LinkedIn:** [Seu LinkedIn](https.www.linkedin.com/in/seu-usuario/)
-- **Email:** seu.email@example.com
+- **Email:** heloisa.af86@gmail.com
 
 ## ✨ Estatísticas do GitHub
 

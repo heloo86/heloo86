@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, me chamo (seu nome)! 👋
 
-<!--
-**heloo86/heloo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou uma estudante de desenvolvimento de sistemas apaixonada por tecnologia e programação. Atualmente, estou focando meus estudos em desenvolvimento com Java e JavaScript.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Java, JavaScript
+- **Frameworks e Tecnologias:** Spring Boot, Node.js, React
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Ferramentas:** Git, Docker
+
+## 📫 Contato
+
+- **Email:** heloisa.af86@gmail.com
+
+## ✨ Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heloo86&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heloo86&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

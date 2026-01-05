@@ -6,8 +6,7 @@ Sou uma estudante de desenvolvimento de sistemas apaixonada por tecnologia e pro
 ## 🚀 Habilidades
 
 - **Linguagens:** Java, JavaScript
-- **Frameworks e Tecnologias:** Spring Boot, Node.js, React
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Banco de Dados:** MySQL
 - **Ferramentas:** Git, Docker
 
 ## 📫 Contato
